@@ -1,4 +1,4 @@
-Here are the descriptions for each of the tasks you’ve listed:
+Here are the descriptions for each of the tasks  i have done 
 
 ### 1. **Display Top 10 Rows of The Dataset**  
 This operation will display the first 10 rows of the dataset, allowing you to quickly inspect the initial records and verify the structure of your data.
